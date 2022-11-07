@@ -74,7 +74,7 @@ const ProductDetail = () => {
               </p>
               <div className="flex-col">
                 <div className="my-auto">
-                  <span>شيكل </span>
+                  <span>دينار </span>
                   <span className="font-extralight text-2xl inline-block align-middle mt-2 my-auto">
                     {product.price}
                   </span>

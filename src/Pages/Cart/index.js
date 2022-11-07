@@ -62,7 +62,7 @@ const Cart = () => {
                           <p className="font-extralight">{item.title}</p>
                         </Link>
                         <p className="mt-auto mb-4 font-extralight text-xl">
-                           {item.price} شيكل
+                           {item.price} دينار
                         </p>
                       </div>
                       <div className="flex flex-row ml-auto">

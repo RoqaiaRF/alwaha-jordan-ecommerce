@@ -57,7 +57,7 @@ const Card = ({
           </div>
           <div>
             <div className="my-auto" title={`$${item.price}`}>
-              <span className={styles.priceSub}>شيكل</span>
+              <span className={styles.priceSub}>دينار</span>
               <span className={styles.priceTop}>{Math.trunc(item.price)}</span>
               {parseInt((item.price % 1).toFixed(2).substring(2)) !== 0 ? (
                 <span className={styles.priceSub}>
