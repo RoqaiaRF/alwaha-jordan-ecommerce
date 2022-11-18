@@ -84,7 +84,7 @@ const ProductDetail = () => {
                     <a
                       aria-label="ارسل طلبك بالواتساب<"
                       href={
-                        "https://wa.me/962780135849?text=" +
+                        "https://wa.me/962795904092?text=" +
                         " مرحبا أرغب بشراء " +
                         encodeURIComponent(product.title)
                       }
