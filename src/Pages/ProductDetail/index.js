@@ -10,7 +10,10 @@ import SimpleImageSlider from "react-simple-image-slider";
 
 import { AiOutlineWhatsApp } from "react-icons/ai";
 
+
+
 const ProductDetail = () => {
+ 
   const { addToCart, items } = useCart();
   // const { addToFavorite, favoriteItems } = useFavorite();
   const { product, loading, setProductID } = useProduct();
@@ -20,6 +23,13 @@ const ProductDetail = () => {
 
   const { product_id } = useParams();
 
+  const whatssapNumber = ()=> {
+    if (product_id == "4"){
+    return "962779243364"
+  } else {
+    return "96279590409"
+  }
+}
   useEffect(() => {
     setProductID(product_id);
   }, []);
@@ -80,28 +90,29 @@ const ProductDetail = () => {
                   </span>
                 </div>
                 <div className="block ml-auto my-auto mt-0">
-                    {/* زر الطلب بالواتساب */}
-                    <a
-                      aria-label="ارسل طلبك بالواتساب<"
-                      href={
-                        "https://wa.me/962795904092?text=" +
-                        " مرحبا أرغب بشراء " +
-                        encodeURIComponent(product.title)
-                      }
-                    >
-                      <button className={styles.whatssappButton}>
+                  {/* زر الطلب بالواتساب */}
+                   {}
+                  <a
+                    aria-label="ارسل طلبك بالواتساب<"
+                    href={
+                      "https://wa.me/"+ whatssapNumber() +"?text=" +
+                      " مرحبا أرغب بشراء " +
+                      encodeURIComponent(product.title)
+                    }
+                  >
+                    <button className={styles.whatssappButton}>
 
-                        <div className="flex flex-col self-center"></div>
-                        <span className={styles.buttonText}>
-                          {" "}
-                          أرسل طلبك بالواتساب 
-                        </span>
-                        <AiOutlineWhatsApp/>
+                      <div className="flex flex-col self-center"></div>
+                      <span className={styles.buttonText}>
+                        {" "}
+                        أرسل طلبك بالواتساب
+                      </span>
+                      <AiOutlineWhatsApp />
 
-                      </button>
+                    </button>
 
-                      {/* <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />  */}
-                    </a>
+                    {/* <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />  */}
+                  </a>
                 </div>
                 <div className="block ml-auto my-auto mt-0">
                   {" "}
@@ -110,7 +121,7 @@ const ProductDetail = () => {
                       className={styles.addToCartButton}
                       onClick={() => addToCart(product, findCartItem)}
                     >
-                 
+
 
                       <div className="flex flex-col self-center">
                         <span className={styles.buttonText}>
@@ -125,7 +136,7 @@ const ProductDetail = () => {
                   </div>
                 </div>
 
-            
+
 
                 {/* <div className="block my-auto">
                    <button
