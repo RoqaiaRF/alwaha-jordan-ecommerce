@@ -90,12 +90,15 @@ const ProductDetail = () => {
                   </span>
                 </div>
                 <div className="block ml-auto my-auto mt-0">
-                  {/* زر الطلب بالواتساب */}
+                  {/* زر الطلب بالواتساب 
+                  https://api.whatsapp.com/send?phone=962799849386&text=%F0%9F%A4%A9%F0%9F%A4%A9r3rc
+                  
+                  */}
                    {}
                   <a
                     aria-label="ارسل طلبك بالواتساب<"
                     href={
-                      "https://wa.me/"+ whatssapNumber() +"?text=" +
+                      "api.whatsapp.com/send?phone="+ whatssapNumber() +"&text=" +
                       " مرحبا أرغب بشراء " +
                       encodeURIComponent(product.title)
                     }
