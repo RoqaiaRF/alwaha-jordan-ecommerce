@@ -5,7 +5,7 @@ const WhatssappIcon= () => {
     return (
         <div >
       <FloatingWhatsApp
-        phoneNumber="962795904092"
+        phoneNumber="962779243364"
         accountName="شيماءأحمد"
         chatMessage = "يا هلا ومرحبا فيك , اغلبك ابعتلي عنوانك وطلبك 😊"
         avatar= {Avatar}
