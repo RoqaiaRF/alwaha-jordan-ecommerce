@@ -98,7 +98,7 @@ const ProductDetail = () => {
                   <a
                     aria-label="ارسل طلبك بالواتساب<"
                     href={
-                      "api.whatsapp.com/send?phone="+ whatssapNumber() +"&text=" +
+                      "https://api.whatsapp.com/send?phone="+ whatssapNumber() +"&text=" +
                       " مرحبا أرغب بشراء " +
                       encodeURIComponent(product.title)
                     }
