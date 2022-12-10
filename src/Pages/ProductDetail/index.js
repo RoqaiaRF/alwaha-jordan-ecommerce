@@ -117,7 +117,7 @@ const ProductDetail = () => {
                     {/* <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />  */}
                   </a>
                 </div>
-                <div className="block ml-auto my-auto mt-0">
+                {/* <div className="block ml-auto my-auto mt-0">
                   {" "}
                   <div className={styles.addToCart}>
                     <button
@@ -137,7 +137,7 @@ const ProductDetail = () => {
                       />
                     </button>
                   </div>
-                </div>
+                </div> */}
 
 
 
