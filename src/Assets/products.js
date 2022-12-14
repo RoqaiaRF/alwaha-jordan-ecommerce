@@ -51,13 +51,19 @@
         `,
         "category": "ساعات",
         "images":[
-            { url: "https://i.ibb.co/D9MPNsj/smartwatch.jpg" },
-            { url: "https://i.ibb.co/MSnHSdJ/pinkwatch2.jpg" },
-            { url: "https://i.ibb.co/TB1pmwY/backbluewatch.jpg" },
-            { url: "https://i.ibb.co/b1nMJKj/blackwatch.jpg" },
-            { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg"},
-            { url: "https://i.ibb.co/SsFrKwZ/twowatch.jpg"},
-            { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg"}
+          { url: "https://i.ibb.co/TB1pmwY/backbluewatch.jpg" },
+        
+          { url: "https://i.ibb.co/F5jHwJ6/3o-AYDfc8-Or-Ue-JMYEzqp8k-Fp-C5-Xf-Uqbq-Ug8-XPh-Wou.jpg" },
+          { url: "https://i.ibb.co/nkLMC11/AMSMPWCaw-Ov-Vog-Gz1-Gej9-Bz4-Cx-Ek7-K3-DBXq-Mt9-Cf-lg.jpg" },
+          { url: "https://i.ibb.co/8nZwyC9/photo-2022-12-08-18-00-33.jpg"  },
+          { url: "https://i.ibb.co/0Y7GQRB/photo-2022-12-08-18-01-03.jpg" },
+                { url:"https://i.ibb.co/hYPJsYq/photo-2022-12-08-18-01-40.jpg" },
+
+        { url: "https://i.ibb.co/b1nMJKj/blackwatch.jpg" },
+        { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg"},
+        { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg"},
+      { url: "https://i.ibb.co/nkLMC11/AMSMPWCaw-Ov-Vog-Gz1-Gej9-Bz4-Cx-Ek7-K3-DBXq-Mt9-Cf-lg.jpg" },
+      
           ],
           "image": "https://i.ibb.co/t4kMQfL/whitewatch.jpg",
         
