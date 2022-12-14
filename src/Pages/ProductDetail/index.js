@@ -99,7 +99,7 @@ const ProductDetail = () => {
                     aria-label="ارسل طلبك بالواتساب<"
                     href={
                       "https://api.whatsapp.com/send/?phone=962779243364" +"&text=" +
-                      " مرحبا أرغب بشراء " +
+                      " مرحبا  رأيت اعلانك بالسنابشات أرغب بشراء " +
                       encodeURIComponent(product.title)+ "+&type=phone_number&app_absent=0"
                     }
                   >
