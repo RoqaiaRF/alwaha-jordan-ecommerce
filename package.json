@@ -20,8 +20,10 @@
     "react-router-dom": "^6.2.2",
     "react-scripts": "^5.0.0",
     "react-simple-image-slider": "^2.4.1",
+    "react-snapchat-pixel": "^1.1.1",
     "styled-components": "^5.3.6",
     "swiper": "^8.4.4",
+    "tiktok-pixel": "^2.0.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

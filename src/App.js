@@ -12,8 +12,34 @@ import Cart from './Pages/Cart'
 import Favorites from './Pages/Favorites'
 // import Footer  from './Components/Footer'
 import WhatssappIcon from "./Components/WhatssappIcon";
+import TiktokPixel from 'tiktok-pixel';
+import SnapchatPixel from 'react-snapchat-pixel';
+ 
+ 
 
 function App() {
+
+
+  const options = {
+    debug: true, // enable logs
+  };
+  
+  TiktokPixel.init('CEAV0TRC77U8BHMEUCPG', options);
+  TiktokPixel.pageView(); // For tracking page view
+
+
+
+//snapchat pixel
+
+  const userIdentification = { user_email: 'alwahw.info@gmail.com' }; // optional
+  const optionsSnap = {
+      debug: false, 		// enable logs
+  };
+  SnapchatPixel.init('fb8fe387-bd48-435e-941f-5bc5c922b884', userIdentification, optionsSnap);
+   
+  SnapchatPixel.pageView(); 					// For tracking page view
+  
+  
   return (
     <>
     <div className="container mx-auto">
