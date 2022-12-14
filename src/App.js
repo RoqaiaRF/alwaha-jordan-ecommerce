@@ -35,7 +35,7 @@ function App() {
   const optionsSnap = {
       debug: false, 		// enable logs
   };
-  SnapchatPixel.init('fb8fe387-bd48-435e-941f-5bc5c922b884', userIdentification, optionsSnap);
+  SnapchatPixel.init('3f06e1ed-4709-4cdb-b6a1-76a79f7f34ed', userIdentification, optionsSnap);
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
