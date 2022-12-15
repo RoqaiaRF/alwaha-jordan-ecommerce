@@ -114,15 +114,16 @@
 
         🚘متوفر خدمة التوصيل اينما كنت في الاردن ب 2 دينار فقط 🚘`,
         "category": "سماعات",
-        "image": "https://i.ibb.co/2h0kGcy/headphone6.jpg",
+        "image": "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1",
         "images":[
+          { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1" },
+
           { url: "https://i.ibb.co/2h0kGcy/headphone6.jpg" },
-            { url: "https://i.ibb.co/vvSvDm9/headphone2.jpg" },
-            { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg" },
-            { url: "https://i.ibb.co/9VKCPZ7/headphone7.jpg" },
-            { url: "https://i.ibb.co/sR1Mv4m/headphone5.jpg" },
-            { url:"https://i.ibb.co/s18ChP9/headphone4.jpg"  },
-            { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg"  },
+            { url: "https://www.dhresource.com/0x0/f2/albu/g15/M01/1B/F5/rBVa3WIYmJaAFAb1AAn7lW3tdwE731.jpg" },
+            { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798558.jpg?fit=1601%2C1601&ssl=1" },
+            { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798570.jpg?fit=2160%2C2160&ssl=1" },
+            { url:"https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798547-1.jpg?fit=800%2C800&ssl=1"  },
+            { url: "https://image.made-in-china.com/2f0j00UbYicqTtVnoa/3500mAh-M10-9d-Tws-5-1-Earphone-Touch-Control-Wireless-Earphones-Stereo-Bass-Headphone-LED-Digital-Display-Earbuds.jpg"  },
            { url: "https://i.ibb.co/DDtw9cx/powerbank.jpg" },
 
           ],
