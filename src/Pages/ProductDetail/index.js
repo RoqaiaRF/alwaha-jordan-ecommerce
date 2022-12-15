@@ -75,6 +75,37 @@ const ProductDetail = () => {
                   ({product?.rating?.count})
                 </p>
               </div>
+
+              <div className="block ml-auto my-auto mt-0">
+                  {/* زر الطلب بالواتساب 
+                  https://api.whatsapp.com/send?phone=962799849386&text=%F0%9F%A4%A9%F0%9F%A4%A9r3rc
+                  
+                  */}
+                   {}
+                  <a
+                    aria-label="ارسل طلبك بالواتساب<"
+                    href={
+                      "https://api.whatsapp.com/send/?phone=962779243364" +"&text=" +
+                      " مرحبا  رأيت اعلانك بالسنابشات أرغب بشراء " +
+                      encodeURIComponent(product.title)+ "+&type=phone_number&app_absent=0"
+                    }
+                  >
+                    <button className={styles.whatssappButton}>
+
+                      <div className="flex flex-col self-center"></div>
+                      <span className={styles.buttonText}>
+                        {" "}
+                        أرسل طلبك بالواتساب
+                      </span>
+                      <AiOutlineWhatsApp />
+
+                    </button>
+
+                    {/* <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />  */}
+                  </a>
+                </div>
+
+                
               <p
                 className={styles.productDetailText}
                 white-space="pre-line"
