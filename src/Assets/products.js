@@ -55,20 +55,22 @@
         `,
         "category": "ساعات",
         "images":[
-          { url: "https://i.ibb.co/TB1pmwY/backbluewatch.jpg" },
+          { url: "https://s.alicdn.com/@sc04/kf/Udd5d4ad0f6f34d97b652c49e4d2fa05f6.jpg" },
         
-          { url: "https://i.ibb.co/F5jHwJ6/3o-AYDfc8-Or-Ue-JMYEzqp8k-Fp-C5-Xf-Uqbq-Ug8-XPh-Wou.jpg" },
-          { url: "https://i.ibb.co/8nZwyC9/photo-2022-12-08-18-00-33.jpg"  },
-          { url: "https://i.ibb.co/0Y7GQRB/photo-2022-12-08-18-01-03.jpg" },
-                { url:"https://i.ibb.co/hYPJsYq/photo-2022-12-08-18-01-40.jpg" },
+          { url: "https://m.media-amazon.com/images/I/71v6Aa7Bm4L._AC_SX679_.jpg" },
+          { url: "https://ae01.alicdn.com/kf/H862121e221f24cccaf0ba66083acde04z/2021-Smart-Watches-IWO-W26-Men-Women-Smartwatch-Bluetooth-Call-ECG-Heart-Rate-Monitor-Sports-Fitness.jpg"  },
+          { url: "https://5.imimg.com/data5/SELLER/Default/2021/9/PQ/QD/BT/68248891/w26-smart-watch-with-scroll-working-many-more-exciting-watch-faces-1000x1000.jpg" },
+          { url:"https://cdn.mos.cms.futurecdn.net/24gnNuzE4ZzsBAtMityAuH.jpg" },
 
-        { url: "https://i.ibb.co/b1nMJKj/blackwatch.jpg" },
+        { url: "https://i0.wp.com/mucuruzi.com/wp-content/uploads/2022/03/T500-PLUS-1.png?ssl=1" },
         { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg"},
         { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg"},
       
           ],
-          "image": "https://i.ibb.co/t4kMQfL/whitewatch.jpg",
-        
+
+  
+          "image": "https://ae01.alicdn.com/kf/H862121e221f24cccaf0ba66083acde04z/2021-Smart-Watches-IWO-W26-Men-Women-Smartwatch-Bluetooth-Call-ECG-Heart-Rate-Monitor-Sports-Fitness.jpg",
+                  
         "rating": {
             "rate": 3.9,
             "count": 120
