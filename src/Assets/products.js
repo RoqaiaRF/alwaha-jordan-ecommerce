@@ -167,6 +167,7 @@
          "image": "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg",
         "images":[
           { url: "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg" },
+          { url: "https://n3.sdlcdn.com/imgs/i/7/t/MAXXMON-Beard-Styler-V2-Multigrooming-SDL910429235-4-14f7d.jpg" },
 
             { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" },
             { url: "https://i.ibb.co/g6j60xh/71nf-kg0lrl-sl1500-1000x1000.webp" },
