@@ -167,7 +167,6 @@
          "image": "https://i.ibb.co/TKxsGpc/makwa1.jpg",
         "images":[
             { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" },
-            { url: "https://i.ibb.co/MhY2fbg/makwa2.jpg" },
             { url: "https://i.ibb.co/g6j60xh/71nf-kg0lrl-sl1500-1000x1000.webp" },
             { url: "https://i.ibb.co/616SrJW/416f-N0-Enql-L-SY450.jpg" },
             { url: "https://i.ibb.co/vQ6C4qt/b2f1a9fc080b57649a5eca9e2ef6a48a.jpg" },
