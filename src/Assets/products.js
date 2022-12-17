@@ -164,8 +164,10 @@
 
         للطلب الرجاء التواصل على الواتس`,
         "category": "مشط حراري",
-         "image": "https://i.ibb.co/TKxsGpc/makwa1.jpg",
+         "image": "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg",
         "images":[
+          { url: "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg" },
+
             { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" },
             { url: "https://i.ibb.co/g6j60xh/71nf-kg0lrl-sl1500-1000x1000.webp" },
             { url: "https://i.ibb.co/616SrJW/416f-N0-Enql-L-SY450.jpg" },
