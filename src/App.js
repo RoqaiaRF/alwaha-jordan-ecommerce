@@ -32,6 +32,8 @@ function App() {
 //snapchat pixel
 
   const userIdentification = { user_email: 'alwahw.info@gmail.com' }; // optional
+  const userIdentification_new_account = { user_email: 'alwahw2.store@gmail.com' }; // optional
+
   const optionsSnap = {
       debug: false, 		// enable logs
   };
@@ -39,7 +41,7 @@ function App() {
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
-  SnapchatPixel.init('950cc468-bee3-4504-9366-9863c8645cba', userIdentification, optionsSnap);
+  SnapchatPixel.init('950cc468-bee3-4504-9366-9863c8645cba', userIdentification_new_account, optionsSnap);
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
