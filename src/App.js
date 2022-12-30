@@ -39,6 +39,10 @@ function App() {
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
+  SnapchatPixel.init('950cc468-bee3-4504-9366-9863c8645cba', userIdentification, optionsSnap);
+   
+  SnapchatPixel.pageView(); 					// For tracking page view
+  
   
   return (
     <>

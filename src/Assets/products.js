@@ -1,9 +1,9 @@
- const  allproducts = [
-    {
-        "id": 1,
-        "title": "الساعه الذكيه watch 8",
-        "price": 10,
-        "description": `
+const allproducts = [
+  {
+    id: 1,
+    title: "الساعه الذكيه watch 8",
+    price: 10,
+    description: `
 
        وصل حديثاً
 🔥ساعه  Ultra watch 8  الأصلية الجيل الثامن أحدث إصدار 2023🔥 حرق سعر العرض لفتره محدوده 🔥
@@ -53,36 +53,40 @@
 
         🔥 🔥 🔥    عرض خاص : 3 ساعات ب 28 دينار فقط  🔥 🔥 🔥 
         `,
-        "category": "ساعات",
-        "images":[
+    category: "ساعات",
+    images: [
+      {
+        url: "https://i.ibb.co/59jdwgY/Whats-App-Image-2022-12-19-at-12-52-04.jpg",
+      },
 
+      { url: "https://m.media-amazon.com/images/I/71v6Aa7Bm4L._AC_SX679_.jpg" },
+      {
+        url: "https://ae01.alicdn.com/kf/H862121e221f24cccaf0ba66083acde04z/2021-Smart-Watches-IWO-W26-Men-Women-Smartwatch-Bluetooth-Call-ECG-Heart-Rate-Monitor-Sports-Fitness.jpg",
+      },
+      {
+        url: "https://5.imimg.com/data5/SELLER/Default/2021/9/PQ/QD/BT/68248891/w26-smart-watch-with-scroll-working-many-more-exciting-watch-faces-1000x1000.jpg",
+      },
+      { url: "https://cdn.mos.cms.futurecdn.net/24gnNuzE4ZzsBAtMityAuH.jpg" },
 
-          
-                    { url: "https://i.ibb.co/59jdwgY/Whats-App-Image-2022-12-19-at-12-52-04.jpg" },
-        
-          { url: "https://m.media-amazon.com/images/I/71v6Aa7Bm4L._AC_SX679_.jpg" },
-          { url: "https://ae01.alicdn.com/kf/H862121e221f24cccaf0ba66083acde04z/2021-Smart-Watches-IWO-W26-Men-Women-Smartwatch-Bluetooth-Call-ECG-Heart-Rate-Monitor-Sports-Fitness.jpg"  },
-          { url: "https://5.imimg.com/data5/SELLER/Default/2021/9/PQ/QD/BT/68248891/w26-smart-watch-with-scroll-working-many-more-exciting-watch-faces-1000x1000.jpg" },
-          { url:"https://cdn.mos.cms.futurecdn.net/24gnNuzE4ZzsBAtMityAuH.jpg" },
+      {
+        url: "https://i0.wp.com/mucuruzi.com/wp-content/uploads/2022/03/T500-PLUS-1.png?ssl=1",
+      },
+      { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg" },
+      { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg" },
+    ],
 
-        { url: "https://i0.wp.com/mucuruzi.com/wp-content/uploads/2022/03/T500-PLUS-1.png?ssl=1" },
-        { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg"},
-        { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg"},
-      
-          ],
-
-  
-          "image":"https://i.ibb.co/59jdwgY/Whats-App-Image-2022-12-19-at-12-52-04.jpg" ,
-        "rating": {
-            "rate": 3.9,
-            "count": 120
-        }
+    image:
+      "https://i.ibb.co/59jdwgY/Whats-App-Image-2022-12-19-at-12-52-04.jpg",
+    rating: {
+      rate: 3.9,
+      count: 120,
     },
-    {
-        "id": 2,
-        "title": "سماعة TWS ",
-        "price": 8,
-        "description": `
+  },
+  {
+    id: 2,
+    title: "سماعة TWS ",
+    price: 8,
+    description: `
         🔥سماعه TWS, احدث اصدار 2022 و بسعر تحدي !!🔥
                 
         ⏰ حرق سعر فقط ب 8 دينار لفترة محدودة ⏰
@@ -117,30 +121,42 @@
         🔥 🔥 🔥    عرض خاص : 3 سماعات  ب 21 دينار فقط  🔥 🔥 🔥 
 
         🚘متوفر خدمة التوصيل اينما كنت في الاردن ب 2 دينار فقط 🚘`,
-        "category": "سماعات",
-        "image": "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1",
-        "images":[
-          { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1" },
+    category: "سماعات",
+    image:
+      "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1",
+    images: [
+      {
+        url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798563.jpg?fit=1601%2C1601&ssl=1",
+      },
 
-          { url: "https://i.ibb.co/2h0kGcy/headphone6.jpg" },
-            { url: "https://www.dhresource.com/0x0/f2/albu/g15/M01/1B/F5/rBVa3WIYmJaAFAb1AAn7lW3tdwE731.jpg" },
-            { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798558.jpg?fit=1601%2C1601&ssl=1" },
-            { url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798570.jpg?fit=2160%2C2160&ssl=1" },
-            { url:"https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798547-1.jpg?fit=800%2C800&ssl=1"  },
-            { url: "https://image.made-in-china.com/2f0j00UbYicqTtVnoa/3500mAh-M10-9d-Tws-5-1-Earphone-Touch-Control-Wireless-Earphones-Stereo-Bass-Headphone-LED-Digital-Display-Earbuds.jpg"  },
-           { url: "https://i.ibb.co/DDtw9cx/powerbank.jpg" },
-
-          ],
-        "rating": {
-            "rate": 4.1,
-            "count": 259
-        }
+      { url: "https://i.ibb.co/2h0kGcy/headphone6.jpg" },
+      {
+        url: "https://www.dhresource.com/0x0/f2/albu/g15/M01/1B/F5/rBVa3WIYmJaAFAb1AAn7lW3tdwE731.jpg",
+      },
+      {
+        url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798558.jpg?fit=1601%2C1601&ssl=1",
+      },
+      {
+        url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798570.jpg?fit=2160%2C2160&ssl=1",
+      },
+      {
+        url: "https://i0.wp.com/alyazon.com/wp-content/uploads/2022/04/798547-1.jpg?fit=800%2C800&ssl=1",
+      },
+      {
+        url: "https://image.made-in-china.com/2f0j00UbYicqTtVnoa/3500mAh-M10-9d-Tws-5-1-Earphone-Touch-Control-Wireless-Earphones-Stereo-Bass-Headphone-LED-Digital-Display-Earbuds.jpg",
+      },
+      { url: "https://i.ibb.co/DDtw9cx/powerbank.jpg" },
+    ],
+    rating: {
+      rate: 4.1,
+      count: 259,
     },
-    {
-        "id": 3,
-        "title": "مشط حراري",
-        "price": 6,
-        "description": `
+  },
+  {
+    id: 3,
+    title: "مشط حراري",
+    price: 6,
+    description: `
  
         مشط حراري لتصفيف شعر الرأس واللحيه بكل سهوله بديل _السشوار والستريت (للشباب والفتيات).
       
@@ -165,36 +181,48 @@
         🔥 🔥 🔥    عرض خاص : حبتين  ب 11 دينار فقط  🔥 🔥 🔥 
 
         للطلب الرجاء التواصل على الواتس`,
-        "category": "مشط حراري",
-         "image": "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg",
-        "images":[
-          { url: "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg" },
-          { url: "https://n3.sdlcdn.com/imgs/i/7/t/MAXXMON-Beard-Styler-V2-Multigrooming-SDL910429235-4-14f7d.jpg" },
+    category: "مشط حراري",
+    image:
+      "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg",
+    images: [
+      {
+        url: "https://eg.xpark.com/media/catalog/product/4/d/4d3ea390-c50f-4725-bad9-087d80fe9b23_1.jpg",
+      },
+      {
+        url: "https://n3.sdlcdn.com/imgs/i/7/t/MAXXMON-Beard-Styler-V2-Multigrooming-SDL910429235-4-14f7d.jpg",
+      },
 
-            { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" },
-            { url: "https://i.ibb.co/g6j60xh/71nf-kg0lrl-sl1500-1000x1000.webp" },
-            { url: "https://i.ibb.co/616SrJW/416f-N0-Enql-L-SY450.jpg" },
-            { url: "https://i.ibb.co/vQ6C4qt/b2f1a9fc080b57649a5eca9e2ef6a48a.jpg" },
-            { url: "https://i.ibb.co/vBnPCs5/c06bd372-b050-4568-b7e8-3f864e02e7d7.jpg" },
-            { url: "https://i.ibb.co/mbZ3s4m/e68ba803-6e17-40bd-a084-687211fa1896.jpg" },
-            { url: "https://i.ibb.co/8gm6Pkw/fe304ada59507634bd9209d2d95b7186.jpg" },
-            { url: "https://i.ibb.co/fv9PZtN/H1ceb1dc9b1f9432ea6002936fba6bccc-U.jpg" },
-            { url: "https://i.ibb.co/3vLPC6s/Hbbe090be1f024bdca0c9cc916c6efe7f-C.jpg" },
-            { url: "https://i.ibb.co/N2kj8jQ/s-l1600.jpg" },
-            { url: "https://i.ibb.co/9pzFhHR/styler-v2-1000x1000.webp" },
-            { url: "https://i.ibb.co/7RrsqqV/First-Frame.png" }
-      
-          ],
-        "rating": {
-            "rate": 4.7,
-            "count": 500
-        }
-},
-{
-  "id": 4,
-  "title": "فوم تنظيف",
-  "price": 10,
-  "description": `
+      { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" },
+      { url: "https://i.ibb.co/g6j60xh/71nf-kg0lrl-sl1500-1000x1000.webp" },
+      { url: "https://i.ibb.co/616SrJW/416f-N0-Enql-L-SY450.jpg" },
+      { url: "https://i.ibb.co/vQ6C4qt/b2f1a9fc080b57649a5eca9e2ef6a48a.jpg" },
+      {
+        url: "https://i.ibb.co/vBnPCs5/c06bd372-b050-4568-b7e8-3f864e02e7d7.jpg",
+      },
+      {
+        url: "https://i.ibb.co/mbZ3s4m/e68ba803-6e17-40bd-a084-687211fa1896.jpg",
+      },
+      { url: "https://i.ibb.co/8gm6Pkw/fe304ada59507634bd9209d2d95b7186.jpg" },
+      {
+        url: "https://i.ibb.co/fv9PZtN/H1ceb1dc9b1f9432ea6002936fba6bccc-U.jpg",
+      },
+      {
+        url: "https://i.ibb.co/3vLPC6s/Hbbe090be1f024bdca0c9cc916c6efe7f-C.jpg",
+      },
+      { url: "https://i.ibb.co/N2kj8jQ/s-l1600.jpg" },
+      { url: "https://i.ibb.co/9pzFhHR/styler-v2-1000x1000.webp" },
+      { url: "https://i.ibb.co/7RrsqqV/First-Frame.png" },
+    ],
+    rating: {
+      rate: 4.7,
+      count: 500,
+    },
+  },
+  {
+    id: 4,
+    title: "فوم تنظيف",
+    price: 10,
+    description: `
   🔥بخاخ الفوم الألماني🔥
 
   🎁هدية مع كل طلب ليفة تنظيق سحرية مخصصة  🎁
@@ -216,27 +244,33 @@
   
   🚘التوصيل مجاني  لجميع محافظات المملكة 
   `,
-  "category": "فوم تنظيف",
-  "image": "https://dalilalmarefa.com/wp-content/uploads/2022/01/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-scaled.jpg",
-  "images":[
-      { url: "https://www.click2shop.org/wp-content/uploads/2021/03/a2_20fda01d-6236-4e47-8d2c-52801d19fa8d_large.gif" },
-      { url: "https://cdn.youcan.shop/stores/2c523d73da2562a06d584192bc3e4afc/products/wJRdyBQPA6Ha6sD6fR77sA3eRs6LC9kQpwJ8d3WD.jpeg" },
-      { url: "https://kitchen.sayidaty.net/uploads/small/5e/5eecd9d483ad9f591a20ce10b2bda17f_w750_h750.jpg"},
-      { url:  "https://dalilalmarefa.com/wp-content/uploads/2022/01/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-scaled.jpg"},
-      { url : "https://ethranet.net/user_images/news/16-02-22-531627866.jpg"},
-      { url : "https://i.ytimg.com/vi/us-y2niSGvE/sddefault.jpg"}
-
+    category: "فوم تنظيف",
+    image:
+      "https://dalilalmarefa.com/wp-content/uploads/2022/01/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-scaled.jpg",
+    images: [
+      {
+        url: "https://www.click2shop.org/wp-content/uploads/2021/03/a2_20fda01d-6236-4e47-8d2c-52801d19fa8d_large.gif",
+      },
+      {
+        url: "https://cdn.youcan.shop/stores/2c523d73da2562a06d584192bc3e4afc/products/wJRdyBQPA6Ha6sD6fR77sA3eRs6LC9kQpwJ8d3WD.jpeg",
+      },
+      {
+        url: "https://kitchen.sayidaty.net/uploads/small/5e/5eecd9d483ad9f591a20ce10b2bda17f_w750_h750.jpg",
+      },
+      {
+        url: "https://dalilalmarefa.com/wp-content/uploads/2022/01/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-scaled.jpg",
+      },
+      { url: "https://ethranet.net/user_images/news/16-02-22-531627866.jpg" },
+      { url: "https://i.ytimg.com/vi/us-y2niSGvE/sddefault.jpg" },
     ],
-  "rating": {
-      "rate": 4.7,
-      "count": 500
-  }
-} 
-]
+    rating: {
+      rate: 4.7,
+      count: 500,
+    },
+  },
+];
 
 export default allproducts;
-
-
 
 /*
 
