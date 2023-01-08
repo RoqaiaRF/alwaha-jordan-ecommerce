@@ -268,27 +268,75 @@ const allproducts = [
       count: 500,
     },
   },
+
+
+  {
+    "id": 5,
+    "title": " 2023 سماعات سبيكر",
+    "price": 10,
+    "description": `🔥عرض  بدايه السنه نار  🔥
+
+    #سماعات سبيكر مع مايكروفون فقط ب 9.99دينار.
+    #وصل حديثا 
+    احدث اصدار موديل SPEAKER/ 2023
+    
+    اغتنم العرض قبل نفاذ الكمية محدوده
+    
+     #المميزات:-
+    صوت عالي واضح ونقي.🔹
+    مكفوله لمده سنه. 🔹
+    حجم كبير CM18*40🔹
+     تحتوي هلى نظام سستم نار 🔥  صوت صاخب وعالي. 🔹
+    ريموت للتحكم عن بعد. 🔹
+     يمكن  شبكها مع اي جهاز اخر عن طريق البلوتوث WIRELESSاو السلك. 🔹
+     راديو.🔹
+    تحتوى على قاعده للهاتف.🔹
+     تحتوي على Hi_Fi🔹
+    تحتوي على مدخل للفلاشه ومدخل للذاكره USB/SD CARD المومري/مدخل للتلفون.🔹
+    
+    🔥 حرق سعر نار فقط ب 9.99دينار 🔥 اغتنم العرض قبل نفاذ الكمية محدوده .🔹
+    
+    ❌ الكمية محدودة, سارع بالحجز❌
+    
+    🚘يضاف 2 دينار اجرة توصيل لإي مكان بالمملكة🚘
+    
+    📩 للطلب والاستفسار الرجاء التواصل معنا عبر رسائل  الواتس 0779243364  📩
+    `,
+    "category": "سماعات",
+    "image": "https://i.ibb.co/vBV2R6B/1.jpg",
+    "images":[
+          { url: "https://i.ibb.co/vBV2R6B/1.jpg" },
+          { url: "https://i.ibb.co/QjvnmPT/2.jpg"},
+          { url: "https://i.ibb.co/BVW7Q1f/3.jpg"},
+          { url: "https://i.ibb.co/r336w1T/4.jpg" },
+          { url: "https://i.ibb.co/hVmVVsx/5.jpg" },
+      ],
+    "rating": {
+        "rate": 4.7,
+        "count": 500
+    }
+    }
 ];
 
 export default allproducts;
 
 /*
 
-// <img src="https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
-// <img src="https://i.ibb.co/9VKCPZ7/headphone7.jpg" alt="headphone7" border="0">
-// <img src="https://i.ibb.co/2h0kGcy/headphone6.jpg" alt="headphone6" border="0">
-// <img src="https://i.ibb.co/sR1Mv4m/headphone5.jpg" alt="headphone5" border="0">
-// <img src="https://i.ibb.co/s18ChP9/headphone4.jpg" alt="headphone4" border="0">
-// <img src="https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
-// <img src="https://i.ibb.co/vvSvDm9/headphone2.jpg" alt="headphone2" border="0">
-// <img src="https://i.ibb.co/DDtw9cx/powerbank.jpg" alt="powerbank" border="0">
-// <img src="https://i.ibb.co/MhY2fbg/makwa2.jpg" alt="makwa2" border="0">
-// <img src="https://i.ibb.co/TKxsGpc/makwa1.jpg" alt="makwa1" border="0">
-// <img src="https://i.ibb.co/MSnHSdJ/pinkwatch2.jpg" alt="pinkwatch2" border="0">
-// <img src="https://i.ibb.co/D9MPNsj/smartwatch.jpg" alt="smartwatch" border="0">
-// <img src="https://i.ibb.co/t4kMQfL/whitewatch.jpg" alt="whitewatch" border="0">
-// <img src="https://i.ibb.co/TB1pmwY/backbluewatch.jpg" alt="backbluewatch" border="0">
-// <img src="https://i.ibb.co/b1nMJKj/blackwatch.jpg" alt="blackwatch" border="0">
-// <img src="https://i.ibb.co/SsFrKwZ/twowatch.jpg" alt="twowatch" border="0">
-// <img src="https://i.ibb.co/J2NyS7J/pink-watch.jpg" alt="pink-watch" border="0">
+//  { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
+//  { url: "https://i.ibb.co/9VKCPZ7/headphone7.jpg" alt="headphone7" border="0">
+//  { url: "https://i.ibb.co/2h0kGcy/headphone6.jpg" alt="headphone6" border="0">
+//  { url: "https://i.ibb.co/sR1Mv4m/headphone5.jpg" alt="headphone5" border="0">
+//  { url: "https://i.ibb.co/s18ChP9/headphone4.jpg" alt="headphone4" border="0">
+//  { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
+//  { url: "https://i.ibb.co/vvSvDm9/headphone2.jpg" alt="headphone2" border="0">
+//  { url: "https://i.ibb.co/DDtw9cx/powerbank.jpg" alt="powerbank" border="0">
+//  { url: "https://i.ibb.co/MhY2fbg/makwa2.jpg" alt="makwa2" border="0">
+//  { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" alt="makwa1" border="0">
+//  { url: "https://i.ibb.co/MSnHSdJ/pinkwatch2.jpg" alt="pinkwatch2" border="0">
+//  { url: "https://i.ibb.co/D9MPNsj/smartwatch.jpg" alt="smartwatch" border="0">
+//  { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg" alt="whitewatch" border="0">
+//  { url: "https://i.ibb.co/TB1pmwY/backbluewatch.jpg" alt="backbluewatch" border="0">
+//  { url: "https://i.ibb.co/b1nMJKj/blackwatch.jpg" alt="blackwatch" border="0">
+//  { url: "https://i.ibb.co/SsFrKwZ/twowatch.jpg" alt="twowatch" border="0">
+//  { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg" alt="pink-watch" border="0">
  */
