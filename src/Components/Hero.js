@@ -23,13 +23,13 @@ const Hero25 = () => {
         <h2 className="text-xl sm:text-3xl font-mulish">Marketplace for</h2>
 
         {/* ::Big Title */}
-        <h1 className="text-5xl sm:text-7xl font-mulish">AL-WAHW</h1>
+        <h1 className="text-5xl sm:text-7xl font-mulish">Ab market</h1>
 
         {/* ::Text */}
         <p className="text-right max-w-lg py-5 font-thin leading-relaxed">
           منتجات ذكية تجعل من حياتك أكثر راحة وسهولة
            تسوق الآن واحصل على خصومات هائلة 
-           تسوق أفضل الساعات الذكية من الواحة واحصل<br/>
+           تسوق أفضل الساعات الذكية من Ab market واحصل<br/>
 على خصومات حصرية الآن!
            </p>
 
