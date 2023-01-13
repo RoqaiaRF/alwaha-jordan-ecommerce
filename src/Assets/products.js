@@ -328,24 +328,3 @@ const allproducts = [
 ];
 
 export default allproducts;
-
-/*
-
-//  { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
-//  { url: "https://i.ibb.co/9VKCPZ7/headphone7.jpg" alt="headphone7" border="0">
-//  { url: "https://i.ibb.co/2h0kGcy/headphone6.jpg" alt="headphone6" border="0">
-//  { url: "https://i.ibb.co/sR1Mv4m/headphone5.jpg" alt="headphone5" border="0">
-//  { url: "https://i.ibb.co/s18ChP9/headphone4.jpg" alt="headphone4" border="0">
-//  { url: "https://i.ibb.co/B63Q3hB/headphone8.jpg" alt="headphone8" border="0">
-//  { url: "https://i.ibb.co/vvSvDm9/headphone2.jpg" alt="headphone2" border="0">
-//  { url: "https://i.ibb.co/DDtw9cx/powerbank.jpg" alt="powerbank" border="0">
-//  { url: "https://i.ibb.co/MhY2fbg/makwa2.jpg" alt="makwa2" border="0">
-//  { url: "https://i.ibb.co/TKxsGpc/makwa1.jpg" alt="makwa1" border="0">
-//  { url: "https://i.ibb.co/MSnHSdJ/pinkwatch2.jpg" alt="pinkwatch2" border="0">
-//  { url: "https://i.ibb.co/D9MPNsj/smartwatch.jpg" alt="smartwatch" border="0">
-//  { url: "https://i.ibb.co/t4kMQfL/whitewatch.jpg" alt="whitewatch" border="0">
-//  { url: "https://i.ibb.co/TB1pmwY/backbluewatch.jpg" alt="backbluewatch" border="0">
-//  { url: "https://i.ibb.co/b1nMJKj/blackwatch.jpg" alt="blackwatch" border="0">
-//  { url: "https://i.ibb.co/SsFrKwZ/twowatch.jpg" alt="twowatch" border="0">
-//  { url: "https://i.ibb.co/J2NyS7J/pink-watch.jpg" alt="pink-watch" border="0">
- */

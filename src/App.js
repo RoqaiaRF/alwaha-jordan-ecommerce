@@ -31,13 +31,13 @@ function App() {
 
 //snapchat pixel
 
-  const userIdentification = { user_email: 'alwahw.info@gmail.com' }; // optional
+  const userIdentificationSnapchat = { user_email: 'roqaia.alrfou3@gmail.com' }; // optional
   const userIdentification_new_account = { user_email: 'alwahw2.store@gmail.com' }; // optional
 
   const optionsSnap = {
       debug: false, 		// enable logs
   };
-  SnapchatPixel.init('3f06e1ed-4709-4cdb-b6a1-76a79f7f34ed', userIdentification, optionsSnap);
+  SnapchatPixel.init('a73e10c0-b541-40c5-b93c-c8540b9f98e0', userIdentificationSnapchat, optionsSnap);
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
