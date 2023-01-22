@@ -106,7 +106,7 @@ const ProductDetail = () => {
                 </div>
 
                 
-              <p
+              <p dir="rtl"
                 className={styles.productDetailText}
                 white-space="pre-line"
                 vertical-align="bottom"
