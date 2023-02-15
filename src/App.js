@@ -31,17 +31,15 @@ function App() {
 
 //snapchat pixel
 
-  const userIdentificationSnapchat = { user_email: 'roqaia.alrfou3@gmail.com' }; // optional
-  const userIdentification_new_account = { user_email: 'alwahw2.store@gmail.com' }; // optional
+  const userIdentification_new_account = { user_email: 'Mohammaddaher1711994@gmail.com' }; // optional
 
   const optionsSnap = {
       debug: false, 		// enable logs
   };
-  SnapchatPixel.init('a73e10c0-b541-40c5-b93c-c8540b9f98e0', userIdentificationSnapchat, optionsSnap);
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
-  SnapchatPixel.init('950cc468-bee3-4504-9366-9863c8645cba', userIdentification_new_account, optionsSnap);
+  SnapchatPixel.init('3da25f02-3919-45e2-a3d5-cf7dfc51baaf', userIdentification_new_account, optionsSnap);
    
   SnapchatPixel.pageView(); 					// For tracking page view
   
